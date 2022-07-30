@@ -1,0 +1,29 @@
+body{
+    background-color:black;
+}
+
+/* .outer-container{
+    background-color: blueviolet;
+} */
+.btn{
+    cursor: pointer;
+}
+
+.inner-conatiner{
+    background-color: blue;
+    height: 70vh;
+    width: 50vw;
+    margin: auto;
+}
+.items-list{
+    margin-top: 20px;
+}
+.items{
+    margin: auto;
+    background-color: aqua;
+    width: 70%;
+    height: 30px;
+}
+.del-btn{
+    float: right;
+}
